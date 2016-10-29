@@ -44,7 +44,7 @@ boolean isSignature = fragment.isSignature();
 
 boolean isQuoted = fragment.isQuoted();
 
-boolean isHiiden = fragment.isHidden();
+boolean isHidden = fragment.isHidden();
 
 boolean isEmpty = fragment.isEmpty();
 ```
